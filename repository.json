@@ -1,0 +1,9 @@
+{
+  "name": "Home Assistant Local Add-ons",
+  "slug": "local",
+  "url": "https://github.com/ardi69/ha-addon-jdownloader",
+  "maintainers": ["ardi69"],
+  "addons": [
+    "jdownloader"
+  ]
+}
