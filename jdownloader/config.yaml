@@ -1,0 +1,20 @@
+name: JDownloader
+version: "1.0.0"
+slug: jdownloader
+description: Headless JDownloader Add-on
+arch:
+  - amd64
+  - armv7
+  - aarch64
+startup: application
+boot: auto
+ports:
+  3129/tcp: 3129
+options:
+  email: ""
+  password: ""
+schema:
+  email: str
+  password: str
+map:
+  - share:rw
