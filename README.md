@@ -2,31 +2,31 @@
 
 ![HA Add-on](https://img.shields.io/badge/Home%20Assistant-Add--on-blue)
 
-Dieses Add-on ermÃ¶glicht das AusfÃ¼hren von **JDownloader** im Headless-Modus auf **Home Assistant OS** oder **Supervised**, steuerbar Ã¼ber [MyJDownloader](https://my.jdownloader.org/).
+Dieses Add-on ermöglicht das Ausführen von **JDownloader** im Headless-Modus auf **Home Assistant OS** oder **Supervised**, steuerbar über [MyJDownloader](https://my.jdownloader.org/).
 
 ---
 
-## ðŸ”¹ Features
+## ?? Features
 
-- Headless-AusfÃ¼hrung von JDownloader (keine GUI notwendig)  
-- Steuerung Ã¼ber MyJDownloader Webinterface oder App  
+- Headless-Ausführung von JDownloader (keine GUI notwendig)  
+- Steuerung über MyJDownloader Webinterface oder App  
 - Downloads direkt in `/share/downloads` ablegen  
 - Einfache Installation als Home Assistant Add-on  
-- LÃ¤uft auf x86_64, ARMv7 und aarch64  
+- Läuft auf x86_64, ARMv7 und aarch64  
 
 ---
 
-## ðŸ”¹ Voraussetzungen
+## ?? Voraussetzungen
 
 - Home Assistant OS oder Supervised  
 - MyJDownloader-Konto  
-- Internetzugang fÃ¼r JDownloader-Downloads  
+- Internetzugang für JDownloader-Downloads  
 
 ---
 
-## ðŸ”¹ Installation
+## ?? Installation
 
-### 1. Repository hinzufÃ¼gen
+### 1. Repository hinzufügen
 
-1. Home Assistant UI â†’ **Einstellungen â†’ Add-ons â†’ Add-on Store â†’ â‹® â†’ Repository hinzufÃ¼gen**  
-2. GitHub URL einfÃ¼gen:  
+1. Home Assistant UI ? **Einstellungen ? Add-ons ? Add-on Store ? ? ? Repository hinzufügen**  
+2. GitHub URL einfügen:  
